@@ -11,5 +11,5 @@
 | selasa | wireframe | link figma | 120 |
 | selasa | gathering asset | link canva | 120 |
 | rabu | creating design | link canva | 240 |
-| kamis | review | yyyy/mm/dd_hasil_review | 60 |
+| kamis | review | yyyy/mm/dd_hasil_review.md | 60 |
 | kamis | revisi | link canva | 180 |

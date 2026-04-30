@@ -21,4 +21,4 @@
 
 | day | taks | output | time |
 |---|---|---|---|
-| n/a | report view | yyyy/mm/dd_report_view | 10 |
+| n/a | report view | yyyy-mm-dd_report_view | 10 |

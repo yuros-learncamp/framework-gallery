@@ -5,9 +5,10 @@
 | 2. | secondary |  |
 
 ## Font
-| no | style |
-|---|---|
-| 1. |  |
+| no | type | style |
+|---|---|---|
+| 1. | heading |  |
+| 2. | body text |  |
 
 ## Heading
 | no | heading | size |
@@ -24,4 +25,12 @@
 |---|---|---|
 | 1. |  |  |
 
-## 
+## Spacing & Aligment
+| no | line height| margin |
+|---|---|---|
+| 1. |  |  |
+
+## Corner radius
+| no | corner radius |
+|---|---|
+| 1. | rounded [..]px |

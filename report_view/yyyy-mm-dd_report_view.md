@@ -15,6 +15,6 @@
 
 # Umpan Balik Pengguna
 
-| no | nama | kelebihan | kekurangan | permintaan |
+| no | template | kelebihan | kekurangan | permintaan |
 |---|---|---|---|---|
 | 1. |  |  |  |  |

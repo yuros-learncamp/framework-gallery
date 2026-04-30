@@ -14,7 +14,7 @@
 | kamis | review | yyyy-mm-dd_hasil_review.md | 60 |
 | kamis | revisi | link canva | 180 |
 | jumat | create design promotion | link canva | 10 |
-| jumat | upload design promotion | 15 |
+| jumat | upload design promotion | link canva | 15 |
 
 
 ### after 1 month : remon 

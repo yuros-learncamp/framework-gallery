@@ -13,3 +13,20 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 | no | list ppt |
 |---|---|
 | 1. |  |
+
+# E. Pelaksana
+| nama |
+|---|
+|  |
+
+| tanggal mengerjakan |
+|---|
+|  |
+
+| durasi riset |
+|---|
+|  |
+
+| no | refrensi |
+|---|---|
+| 1. |  |

@@ -1,10 +1,10 @@
 # Laporan Performa 1 bulan
 
-| metric | angka bulan ini | perubahan (dari bulan sebelumnya| |
-|---|---|---|---|
-| total views |  |  |  |
-| total uses |  |  |  |
-| engagement rate |  |  |  |
+| metric | angka bulan ini | perubahan (dari bulan sebelumnya) |
+|---|---|---|
+| total views |  |  |
+| total uses |  |  | 
+| engagement rate |  |  |
 | social shares|  |  |  |
 
 # Peringkat Performa Template
@@ -16,5 +16,5 @@
 # Umpan Balik Pengguna
 
 | no | nama | kelebihan | kekurangan | permintaan |
-|---|---|---|
+|---|---|---|---|---|
 | 1. |  |  |  |  |

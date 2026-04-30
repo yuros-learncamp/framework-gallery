@@ -6,7 +6,7 @@
 
 | day | taks | output | time |
 |---|---|---|---|
-| senin | riset trend | yyyy-mm-dd_hasil_riset.md | 60 |
+| senin | riset trend | yyyy-mm-dd_hasil_riset.md | 20 |
 | senin | visual identity | [nama tema]_guideline.md | 180 |
 | selasa | wireframe | link figma | 120 |
 | selasa | gathering asset | link canva | 120 |

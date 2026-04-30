@@ -13,3 +13,12 @@
 | rabu | creating design | link canva | 240 |
 | kamis | review | yyyy-mm-dd_hasil_review.md | 60 |
 | kamis | revisi | link canva | 180 |
+| jumat | create design promotion | link canva | 10 |
+| jumat | upload design promotion | 15 |
+
+
+### after 1 month : remon 
+
+| day | taks | output | time |
+|---|---|---|---|
+| n/a | report view | yyyy/mm/dd_report_view | 10 |

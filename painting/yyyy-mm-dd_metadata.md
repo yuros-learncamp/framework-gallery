@@ -9,6 +9,7 @@
 | description |  |
 | date |  |
 | type |  |
+| dimensions |  |
 | format |  |
 | identifier |  |
 | rights |  |

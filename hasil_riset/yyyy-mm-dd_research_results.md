@@ -15,7 +15,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 | 1. |  |
 
 # E. Worker
-| nama |
+| name |
 |---|
 |  |
 

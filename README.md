@@ -48,11 +48,6 @@
 |  | promotion planning | yyyy-mm-dd_promotion_planning.md | 60 menit |
 |  | create design promotion | link post | 10 menit |
 |  | upload | link post | 10 menit |
-
-## worker : staff
-
-| day | task | output | time |
-|---|---|---|---|
 | **live reaport** |---|---|---|
 | tuesday | gethering research data | yyyy-mm-dd_research_data.md | 60 minute |
 | wednesday | analyze research | yyyy-mm-dd_research_analyze.md | 10 minute |

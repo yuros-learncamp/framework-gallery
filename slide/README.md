@@ -2,6 +2,8 @@
 
 ## Drafting for creating gallery slide
 
+## worker : k-ops
+
 ### 3 day / week
 
 | day | task | output | time |

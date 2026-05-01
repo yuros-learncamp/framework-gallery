@@ -1,20 +1,20 @@
 # Laporan Performa 1 bulan
 
-| metric | angka bulan ini | perubahan (dari bulan sebelumnya) |
+## social media
+| metric | average | last change |
 |---|---|---|
-| total views |  |  |
-| total uses |  |  | 
+| total views |  |  | 
 | engagement rate |  |  |
 | social shares|  |  |  |
 
-# Peringkat Performa Template
+## performance template
 
-| no | nama | digunakan | kategori |
+| no | name | categori | total used | 
 |---|---|---|---|
 | 1. |  |  |  |
 
-# Umpan Balik Pengguna
+## user feedback
 
-| no | template | kelebihan | kekurangan | permintaan |
+| no | template name | strength | weekneas | message |
 |---|---|---|---|---|
 | 1. |  |  |  |  |

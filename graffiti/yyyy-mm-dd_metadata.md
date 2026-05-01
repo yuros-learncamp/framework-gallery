@@ -4,6 +4,7 @@
 |---|---|
 | title |  |
 | creator |  |
+| art style |  |
 | subject |  |
 | Description |  |
 | date |  |

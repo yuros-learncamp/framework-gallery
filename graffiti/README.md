@@ -2,6 +2,8 @@
 
 ## Drafting for gathering graffiti assets
 
+## worker : k-ops
+
 ### 2 day / week
 
 | day | task | output | time |

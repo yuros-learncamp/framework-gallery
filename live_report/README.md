@@ -2,7 +2,7 @@
 
 ## Drafting for creating gallery live report
 
-### 4 day / week
+### 3 day / week
 
 | day | task | output | time |
 |---|---|---|---|

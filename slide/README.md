@@ -2,7 +2,7 @@
 
 ## Drafting for creating gallery slide
 
-### 1 day / week
+### 3 day / week
 
 | day | task | output | time |
 |---|---|---|---|

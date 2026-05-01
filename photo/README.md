@@ -2,7 +2,7 @@
 
 ## Drafting for gathering photo assets
 
-## worker : staff
+## worker : k-ops
 
 ### 2 day / week
 

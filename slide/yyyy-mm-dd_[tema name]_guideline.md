@@ -15,6 +15,7 @@
 |---|---|---|
 | 1. | heading 1 | px |
 | 2. | heading 2 | px |
+| 3. | heading 3 | px |
 
 ## Body text
 | no | font size | bullet points size |

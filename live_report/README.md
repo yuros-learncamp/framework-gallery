@@ -7,7 +7,7 @@
 | day | task | output | time |
 |---|---|---|---|
 | thursday | gethering reserch data | yyyy-mm-dd_reserch_data.md | 60 minute |
-| thursday | analyze reserch | yyyy-mm-dd_research_analyzs.md | 10 minute |
+| thursday | analyze reserch | yyyy-mm-dd_research_analyze.md | 10 minute |
 | thursday | guideline | yyyy-mm-dd_[theme name]_guideline.md | 60 minute |
 | thursday | creating design | link canva | 60 minute |
 | thursday | review | status project | 20 minute |

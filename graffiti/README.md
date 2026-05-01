@@ -11,6 +11,7 @@
 | tuesday | review | status project |  |
 | tuesday | upload to media | link media |  |
 | tuesday | promotion planning | yyyy-mm-dd_promotion_planning.md |  |
+| tuesday | creating promotion | link post |  |
 | tuesday | upload | link post |  |
 
 

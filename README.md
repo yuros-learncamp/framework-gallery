@@ -1,1 +1,7 @@
-## all framework for gallery is here
+# draft framework gallery
+
+# k-ops
+
+| day | taks | output | time |
+|---|---|---|---|
+|  |  |  |  |

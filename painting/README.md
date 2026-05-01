@@ -2,6 +2,8 @@
 
 ## Drafting for gathering painting assets
 
+## worker : staff
+
 ### 2 day / week
 
 | day | task | output | time |

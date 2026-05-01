@@ -1,12 +1,12 @@
 # Operating Standards
 
-## Drafting for gathering graffiti assets
+## Drafting for gathering foto assets
 
 ### day 4 / week
 
 | day | task | output | time |
 |---|---|---|---|
-| thursday | download painting | link drive | 15 menit |
+| thursday | download foto | link drive | 15 menit |
 | thursday | reserch metadata | yyyy-mm-dd-metadata.md | 50 menit |
 | thursday | review | status project | 20 menit |
 | thursday | upload to website | link website | 10 menit |

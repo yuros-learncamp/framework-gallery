@@ -10,9 +10,9 @@
 | tuesday | reserch metadata | yyyy-mm-dd-metadata.md | 50 menit |
 | tuesday | review | status project | 20 menit |
 | tuesday | upload to website | link website | 10 menit |
-| tuesday | promotion planning | yyyy-mm-dd_promotion_planning.md | 30 menit |
-| tuesday | create design promotion | link post | 5 |
-| tuesday | upload | link post | 5 |
+| tuesday | promotion planning | yyyy-mm-dd_promotion_planning.md | 60 menit |
+| tuesday | create design promotion | link post | 10 menit |
+| tuesday | upload | link post | 10 menit |
 
 
 ### monev 

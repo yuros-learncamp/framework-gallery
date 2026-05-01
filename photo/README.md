@@ -2,6 +2,8 @@
 
 ## Drafting for gathering photo assets
 
+## worker : staff
+
 ### 2 day / week
 
 | day | task | output | time |

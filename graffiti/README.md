@@ -7,10 +7,14 @@
 | day | task | output | time |
 |---|---|---|---|
 | tuesday |  |  |  |
+| tuesday |  |  |  |
+| tuesday |  |  |  |
+| tuesday |  |  |  |
+| tuesday |  |  |  |
 
 
-### after 1 month : remon 
+### monev 
 
 | day | task | output | time |
 |---|---|---|---|
-| n/a | report view | yyyy-mm-dd_report_view | 10 minute |
+|  | report view | yyyy-mm-dd_report_view | 10 minute |

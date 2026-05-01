@@ -32,4 +32,6 @@
 | 1. | rounded [..]px |
 
 ## Art style
-art style = 
+| name |
+|---|
+|  |

@@ -6,13 +6,13 @@
 
 | day | task | output | time |
 |---|---|---|---|
-| friday | download foto | link drive | 15 menit |
-| friday | reserch metadata | yyyy-mm-dd-metadata.md | 50 menit |
-| friday | review | status project | 20 menit |
-| thursday | upload to website | link website | 10 menit |
-| thursday | promotion planning | yyyy-mm-dd_promotion_planning.md | 60 menit |
-| thursday | create design promotion | link post | 10 menit |
-| thursday | upload | link post | 10 menit |
+| thursday | download foto | link drive | 15 menit |
+| thursday | reserch metadata | yyyy-mm-dd-metadata.md | 50 menit |
+| thursday | review | status project | 20 menit |
+| friday | upload to website | link website | 10 menit |
+| friday | promotion planning | yyyy-mm-dd_promotion_planning.md | 60 menit |
+| friday | create design promotion | link post | 10 menit |
+| friday | upload | link post | 10 menit |
 
 
 ### monev 

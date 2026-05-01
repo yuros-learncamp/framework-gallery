@@ -17,4 +17,7 @@
 
 | day | task | output | time |
 |---|---|---|---|
-|  | report view | yyyy-mm-dd_report_view | 10 minute |
+| 1 day after | report view | yyyy-mm-dd_report_view | 10 minute |
+| 1 week after | report view | yyyy-mm-dd_report_view | 10 minute |
+| 1 month after | report view | yyyy-mm-dd_report_view | 10 minute |
+

@@ -6,11 +6,12 @@
 
 | day | task | output | time |
 |---|---|---|---|
-| tuesday |  |  |  |
-| tuesday |  |  |  |
-| tuesday |  |  |  |
-| tuesday |  |  |  |
-| tuesday |  |  |  |
+| tuesday | reserch graffiti | yyyy-mm-dd-reserch-graffiti.md |  |
+| tuesday | reserch metadata | yyyy-mm-dd-metadata |  |
+| tuesday | review | status project |  |
+| tuesday | upload to media | link media |  |
+| tuesday | promotion planning | yyyy-mm-dd_promotion_planning.md |  |
+| tuesday | upload | link post |  |
 
 
 ### monev 

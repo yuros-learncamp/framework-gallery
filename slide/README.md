@@ -9,11 +9,11 @@
 | monday | gethering research data | yyyy-mm-dd_reserch_data.md | 60 minute |
 | monday | analyze research | yyyy-mm-dd_analyze_reserch.md | 10 minute |
 | monday | guideline | yyyy-mm-dd_[theme name]_guideline.md | 60 minute |
-| tuesday | creating design | link canva | 60 minute |
+| tuesday | creating design | link canva | 20 minute |
 | tuesday | review | status project | 20 minute |
 | tuesday | promotion planning | yyyy-mm-dd_promotion_planning.md | 60 minute |
-| wednesday | create design promotion | link canva | 10 minute |
-| wednesday | upload design promotion | link post | 10 minute |
+| tuesday | create design promotion | link canva | 10 minute |
+| tuesday | upload design promotion | link post | 10 minute |
 
 
 ### monev 

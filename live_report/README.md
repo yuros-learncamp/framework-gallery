@@ -2,6 +2,8 @@
 
 ## Drafting for creating gallery live report
 
+## worker : staff
+
 ### 3 day / week
 
 | day | task | output | time |

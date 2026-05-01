@@ -6,13 +6,13 @@
 
 | day | task | output | time |
 |---|---|---|---|
-| tuesday | reserch graffiti | link drive |  |
-| tuesday | reserch metadata | yyyy-mm-dd-metadata.md |  |
-| tuesday | review | status project |  |
-| tuesday | upload to media | link media |  |
-| tuesday | promotion planning | yyyy-mm-dd_promotion_planning.md |  |
-| tuesday | creating promotion | link post |  |
-| tuesday | upload | link post |  |
+| tuesday | download graffiti | link drive | 15 menit |
+| tuesday | reserch metadata | yyyy-mm-dd-metadata.md | 50 menit |
+| tuesday | review | status project | 20 menit |
+| tuesday | upload to website | link website | 10 menit |
+| tuesday | promotion planning | yyyy-mm-dd_promotion_planning.md | 30 menit |
+| tuesday | create design promotion | link post | 5 |
+| tuesday | upload | link post | 5 |
 
 
 ### monev 

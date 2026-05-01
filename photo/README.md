@@ -1,6 +1,6 @@
 # Operating Standards
 
-## Drafting for gathering foto assets
+## Drafting for gathering photo assets
 
 ### 2 day / week
 

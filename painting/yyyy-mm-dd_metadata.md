@@ -6,7 +6,7 @@
 | creator |  |
 | art style |  |
 | subject |  |
-| Description |  |
+| description |  |
 | date |  |
 | type |  |
 | format |  |

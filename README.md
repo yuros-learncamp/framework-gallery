@@ -52,6 +52,7 @@
 ## worker : staff
 
 | day | task | output | time |
+|---|---|---|---|
 | **live reaport** |---|---|---|
 | tuesday | gethering research data | yyyy-mm-dd_research_data.md | 60 minute |
 | wednesday | analyze research | yyyy-mm-dd_research_analyze.md | 10 minute |

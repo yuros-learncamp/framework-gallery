@@ -1,4 +1,4 @@
-# framework-gallery
+# Operating standards
 
 ## Drafting for creating gallery slide
 

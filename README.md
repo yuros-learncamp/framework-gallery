@@ -18,8 +18,6 @@
 
 ## 1 week
 
-## worker : k-ops
-
 | day | task | output | time |
 |---|---|---|---|
 | **slide** |---|---|---|

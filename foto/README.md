@@ -2,7 +2,7 @@
 
 ## Drafting for gathering foto assets
 
-### day 4 / week
+### day 5 / week
 
 | day | task | output | time |
 |---|---|---|---|

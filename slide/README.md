@@ -10,10 +10,11 @@
 | monday | analyze reserch | yyyy-mm-dd_research_result.md | 10 minute |
 | monday | guideline | yyyy-mm-dd_[theme name]_guideline.md | 60 minute |
 | monday | creating design | link canva | 60 minute |
-| monday | review | status project | 10 minute |
+| monday | review | status project | 20 minute |
 | monday | promotion planning | yyyy-mm-dd_promotion_planning.md | 30 minute |
-| monday | create design promotion | link canva | 5 minute |
-| monday | upload design promotion | link post | 5 minute |
+| tuesday | promotion planning | yyyy-mm-dd_promotion_planning.md | 30 minute |
+| tuesday | create design promotion | link canva | 10 minute |
+| tuesday | upload design promotion | link post | 10 minute |
 
 
 ### monev 

@@ -11,9 +11,9 @@
 | wednesday | review | status project | 20 menit |
 | wednesday | upload to website | link website | 10 menit |
 | wednesday | promotion planning | yyyy-mm-dd_promotion_planning.md | 15 menit |
-| friday | promotion planning | yyyy-mm-dd_promotion_planning.md | 45 menit |
-| friday | create design promotion | link post | 10 menit |
-| friday | upload | link post | 10 menit |
+| thursday | promotion planning | yyyy-mm-dd_promotion_planning.md | 45 menit |
+| thursday | create design promotion | link post | 10 menit |
+| thursday | upload | link post | 10 menit |
 
 
 ### monev 

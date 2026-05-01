@@ -2,7 +2,7 @@
 
 ## Drafting for creating gallery slide
 
-### week 1: foundation, research, and technical structure
+### 1 day / week
 
 | day | task | output | time |
 |---|---|---|---|

@@ -6,8 +6,8 @@
 
 | day | task | output | time |
 |---|---|---|---|
-| tuesday | reserch graffiti | yyyy-mm-dd-reserch-graffiti.md |  |
-| tuesday | reserch metadata | yyyy-mm-dd-metadata |  |
+| tuesday | reserch graffiti | link drive |  |
+| tuesday | reserch metadata | yyyy-mm-dd-metadata.md |  |
 | tuesday | review | status project |  |
 | tuesday | upload to media | link media |  |
 | tuesday | promotion planning | yyyy-mm-dd_promotion_planning.md |  |

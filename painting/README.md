@@ -1,6 +1,6 @@
 # Operating Standards
 
-## Drafting for gathering graffiti assets
+## Drafting for gathering painting assets
 
 ### day 3 / week
 

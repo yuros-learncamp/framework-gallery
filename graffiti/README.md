@@ -2,7 +2,7 @@
 
 ## Drafting for gathering graffiti assets
 
-### day 2 / week
+### 2 day / week
 
 | day | task | output | time |
 |---|---|---|---|

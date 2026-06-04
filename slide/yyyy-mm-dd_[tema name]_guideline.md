@@ -45,7 +45,7 @@
 ## Corner radius
 | no | corner radius |
 |---|---|
-| 1. | rounded [ 20 ]px |
+| 1. | rounded [ ]px |
 
 ## Art style
 | name |

@@ -50,4 +50,4 @@
 ## Art style
 | name |
 |---|
-|  |
+| minimalis |

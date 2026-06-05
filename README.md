@@ -28,7 +28,7 @@
 |  | review | status project | 20 minute |
 |  | promotion planning | yyyy-mm-dd_promotion_planning.md | 60 minute |
 |  | create design promotion | link canva | 10 minute |
-|  | upload design promotion | link post | 10 minute |
+|  | upload design slide & design promotion | link post | 10 minute |
 | **graffiti** |---|---|---|
 | wednesday | download graffiti | link drive | 15 menit |
 |  | reserch metadata | yyyy-mm-dd-metadata.md | 50 menit |

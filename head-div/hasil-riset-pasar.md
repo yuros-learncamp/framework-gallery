@@ -11,19 +11,19 @@
      - kompetisi pasar tinggi karna sudah banyak produk sejenis di pasaran.
      - belajar Llgika database: di awal pembuatan framework, diperlukan ketelitian ekstra untuk merancang skema relasi antar-tabel agar sistem tidak mengalami error saat digunakan oleh konsumen.
 
-3. [Nama Produk 2, stream overlay minimalis]
+2. [Nama Produk 2, stream overlay minimalis]
      #### Deskripsi Singkat:
-   Paket elemen visual penunjang estetika layar live streaming (seperti bingkai WebCam, kotak chat, dan layar transisi).
+   paket elemen visual penunjang estetika layar live streaming (seperti bingkai WebCam, kotak chat, dan layar transisi).
     #### Kelebihan: 
    - karna target pasarnya streamer memiliki daya beli yang cukup baik unutk produk kustomisasi untuk branding mereka.
-   - Rendah hambatan bagi pemula, pendekatan gaya minimalis/cyberpunk tidak membutuhkan kemampuan ilustrasi manual. Produk bisa dibangun cepat dengan memanfaatkan bentuk geometri dasar, garis tepi, dan kombinasi warna yang kontras (seperti biru-oranye).
+   - rendah hambatan bagi pemula, pendekatan gaya minimalis/cyberpunk tidak membutuhkan kemampuan ilustrasi manual. Produk bisa dibangun cepat dengan memanfaatkan bentuk geometri dasar, garis tepi, dan kombinasi warna yang kontras (seperti biru-oranye).
      #### Kekurangan:
      ​- Keterbatasannya standar resolusi: Membutuhkan tingkat presisi aspek rasio yang ketat (1920 \times 1080) agar aset tidak pecah atau bergeser saat diintegrasikan ke software penyiaran seperti OBS Studio. 
      - Pasar Massal: Memiliki target konsumen yang luas, mulai dari pelaku UMKM, kreator konten, hingga profesional yang membutuhkan portofolio digital ringkas.
         
-4. [Nama Produk 3, linktree/link in bio template]
+3. [Nama Produk 3, linktree/link in bio template]
    #### Kelebihan:
-   - Kemudahan Distribusi: Sistem duplikasi template sangat praktis, membuat proses pengiriman produk ke pembeli (packaging) menjadi sangat ringkas.
+   - emudahan distribusi: Sistem duplikasi template sangat praktis, membuat proses pengiriman produk ke pembeli (packaging) menjadi sangat ringkas.
    - Pasar Massal: Memiliki target konsumen yang luas, mulai dari pelaku UMKM, kreator konten, hingga profesional yang membutuhkan portofolio digital ringkas.
    #### Kekurangan: 
-   - Nilai Jual Satuan Rendah: Karena tingkat kemudahan pembuatannya tinggi, nilai jual per unit relatif rendah. Solusinya harus dijual dalam bentuk bundel variasi gaya (misal: 1 paket isi 5 tema desain).
+   - nilai jual satuan rendah: Karena tingkat kemudahan pembuatannya tinggi, nilai jual per unit relatif rendah. Solusinya harus dijual dalam bentuk bundel variasi gaya (misal: 1 paket isi 5 tema desain).

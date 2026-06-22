@@ -18,10 +18,10 @@
    - karna target pasarnya streamer memiliki daya beli yang cukup baik unutk produk kustomisasi untuk branding mereka.
    - rendah hambatan bagi pemula, pendekatan gaya minimalis/cyberpunk tidak membutuhkan kemampuan ilustrasi manual. Produk bisa dibangun cepat dengan memanfaatkan bentuk geometri dasar, garis tepi, dan kombinasi warna yang kontras (seperti biru-oranye).
      #### Kekurangan:
-     ​- Keterbatasannya standar resolusi: Membutuhkan tingkat presisi aspek rasio yang ketat (1920 \times 1080) agar aset tidak pecah atau bergeser saat diintegrasikan ke software penyiaran seperti OBS Studio. 
+     ​- keterbatasannya standar resolusi: Membutuhkan tingkat presisi aspek rasio yang ketat (1920 \times 1080) agar aset tidak pecah atau bergeser saat diintegrasikan ke software penyiaran seperti OBS Studio. 
      - Pasar Massal: Memiliki target konsumen yang luas, mulai dari pelaku UMKM, kreator konten, hingga profesional yang membutuhkan portofolio digital ringkas.
         
-3. [Nama Produk 3, linktree/link in bio template]
+4. [Nama Produk 3, linktree/link in bio template]
    #### Kelebihan:
    - emudahan distribusi: Sistem duplikasi template sangat praktis, membuat proses pengiriman produk ke pembeli (packaging) menjadi sangat ringkas.
    - Pasar Massal: Memiliki target konsumen yang luas, mulai dari pelaku UMKM, kreator konten, hingga profesional yang membutuhkan portofolio digital ringkas.

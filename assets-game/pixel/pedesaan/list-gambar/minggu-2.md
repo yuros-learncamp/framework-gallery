@@ -2,7 +2,7 @@
 ## 1. kebutuhan menanam dan panen (senin)
 - Kantong benih (seluruh tanaman perkebunan)
 - Kantong pupuk (buat 3 level)
-- Kotak untuk menjual hasil pertanian
+
 ## 2. core tools perlengkapan berkebun (selasa)
 - Cangkul 
 - Kapak

@@ -12,7 +12,6 @@
 ## 3. alat perawatan dan pakan hewan (rabu)
 - gunting cukur
 - ember perah
-- sikat bulu
 - pakan hewan 
 
 

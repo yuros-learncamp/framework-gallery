@@ -9,14 +9,15 @@
 - Beliung
 - Sabit
 
-## 3. hewan (rabu)
-- sapi
-- ayam
-- domba
-- bebek
-
-## 4. alat perawatan dan pakan hewan (kamis)
+## 3. alat perawatan dan pakan hewan (rabu)
 - gunting cukur
 - ember perah
 - sikat bulu
 - pakan hewan 
+
+
+## 4. hewan (kamis)
+- sapi
+- ayam
+- domba
+- bebek
